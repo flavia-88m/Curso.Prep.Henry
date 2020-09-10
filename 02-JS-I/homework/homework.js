@@ -109,7 +109,7 @@ function esPar(num) {
   // Tu código:
   if (num % 2 === 0) {
   return true;
-} else {
+} else { 
 return false;
 }
 
